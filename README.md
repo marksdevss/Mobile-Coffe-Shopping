@@ -7,7 +7,7 @@ CoffeeHub é um aplicativo de pedidos de café que permite aos usuários explora
 
 # Funcionalidades:
 
-Login e registro
-Exploração de menus e promoções
-Carrinho e checkout rápidos
-Perfil com histórico de compras
+1- Login e registro
+2- Exploração de menus e promoções
+3- Carrinho e checkout rápidos
+4- Perfil com histórico de compras
